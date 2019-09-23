@@ -1,0 +1,89 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": false,
+  "name": "rich_menu_schedule",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 839,
+        "height": 839
+      },
+      "action": {
+        "type": "postback",
+        "text": "我最喜歡西班牙華麗飄逸的球風了!請告訴我西甲的賽程表!",
+        "data": "league=spain"
+      }
+    },
+    {
+      "bounds": {
+        "x": 852,
+        "y": 4,
+        "width": 813,
+        "height": 839
+      },
+      "action": {
+        "type": "postback",
+        "text": "我最喜歡德國坦克般強硬的球風了!請告訴我德甲的賽程表!",
+        "data": "league=germany"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1678,
+        "y": 8,
+        "width": 814,
+        "height": 831
+      },
+      "action": {
+        "type": "postback",
+        "text": "我最喜歡英超強硬的球風了!請告訴我英超的賽程表!",
+        "data": "league=england"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 839,
+        "width": 835,
+        "height": 839
+      },
+      "action": {
+        "type": "postback",
+        "text": "我喜歡義大利足球!請告訴我義甲的賽程表!",
+        "data": "league=italy"
+      }
+    },
+    {
+      "bounds": {
+        "x": 847,
+        "y": 843,
+        "width": 822,
+        "height": 835
+      },
+      "action": {
+        "type": "postback",
+        "text": "要看就要看歐洲足球最高殿堂的歐冠阿!",
+        "data": "league=uefa"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1682,
+        "y": 847,
+        "width": 818,
+        "height": 831
+      },
+      "action": {
+        "type": "postback",
+        "text": "我想看法甲!",
+        "data": "league=france"
+      }
+    }
+  ]
+}
