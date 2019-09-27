@@ -1,0 +1,63 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": false,
+  "name": "rich_menu_shoe",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1254,
+        "height": 843
+      },
+      "action": {
+        "type": "postback",
+        "text": "我想要輕量化的速度型戰靴!",
+        "data": "type=speed"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1258,
+        "y": 0,
+        "width": 1242,
+        "height": 843
+      },
+      "action": {
+        "type": "postback",
+        "text": "我想要一雙能夠掌控球的戰靴!",
+        "data": "type=control"
+      }
+    },
+    {
+      "bounds": {
+        "x": 4,
+        "y": 847,
+        "width": 1246,
+        "height": 835
+      },
+      "action": {
+        "type": "postback",
+        "text": "戰靴當然是要穿起來舒適的經典款阿!",
+        "data": "type=classic"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1263,
+        "y": 856,
+        "width": 1229,
+        "height": 826
+      },
+      "action": {
+        "type": "postback",
+        "text": "要買當然是要買球王們的戰靴!",
+        "data": "type=king"
+      }
+    }
+  ]
+}

@@ -3,8 +3,8 @@
     "width": 2500,
     "height": 1686
   },
-  "selected": false,
-  "name": "richmenu_schedule",
+  "selected": true,
+  "name": "rich_menu_schedule",
   "chatBarText": "查看更多資訊",
   "areas": [
     {
@@ -15,9 +15,8 @@
         "height": 839
       },
       "action": {
-        "type": "postback",
-        "text": "我最喜歡西班牙華麗飄逸的球風了!請告訴我西甲的賽程表!",
-        "data": "schedule_league=spain&"
+        "type": "uri",
+        "uri": "line://app/1614188410-kZnJDzqe"
       }
     },
     {
@@ -28,9 +27,8 @@
         "height": 839
       },
       "action": {
-        "type": "postback",
-        "text": "我最喜歡德國坦克般強硬的球風了!請告訴我德甲的賽程表!",
-        "data": "schedule_league=germany&"
+        "type": "uri",
+        "uri": "line://app/1614188410-bZMYLjlp"
       }
     },
     {
@@ -41,9 +39,8 @@
         "height": 831
       },
       "action": {
-        "type": "postback",
-        "text": "我最喜歡英超強硬的球風了!請告訴我英超的賽程表!",
-        "data": "schedule_league=england&"
+        "type": "uri",
+        "uri": "line://app/1614188410-Aw05mQdv"
       }
     },
     {
@@ -54,9 +51,8 @@
         "height": 839
       },
       "action": {
-        "type": "postback",
-        "text": "我喜歡義大利足球!請告訴我義甲的賽程表!",
-        "data": "schedule_league=italy&"
+        "type": "uri",
+        "uri": "line://app/1614188410-e2xpGQPk"
       }
     },
     {
@@ -67,9 +63,8 @@
         "height": 835
       },
       "action": {
-        "type": "postback",
-        "text": "要看就要看歐洲足球最高殿堂的歐冠阿!",
-        "data": "schedule_league=uefa&"
+        "type": "uri",
+        "uri": "line://app/1614188410-lr6rQ5Mn"
       }
     },
     {
@@ -80,9 +75,8 @@
         "height": 831
       },
       "action": {
-        "type": "postback",
-        "text": "我想看法甲!",
-        "data": "schedule_league=france&"
+        "type": "uri",
+        "uri": "line://app/1614188410-aEnoM1Jm"
       }
     }
   ]

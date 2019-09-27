@@ -1,0 +1,77 @@
+[{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://i2.wp.com/www.thebestsoccercleats.com/wp-content/uploads/2015/06/adizero-f50-2015.jpg?resize=610,343",
+        "title": "Adidas  F50 FG(2015)",
+        "text": "文字",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "適合:中、寬腳型 \n重量:203克 \n三角釘搭配龍骨形的啟動釘，給你強大的抓地力，啟動速度飛快!"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-oNlLRBZO"
+          },
+          {
+            "type": "message",
+            "label": "動作 3",
+            "text": "動作 3"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://www.soccerbible.com/media/10841/nike-mercurial-superfly-iv-highlight-img1.jpg",
+        "title": "MERCURIAL Superfly",
+        "text": "Nike",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Nike \nMERCURIAL Superfly \n適合:窄、中等腳型 \n重量:195克 \n複合碳纖維鞋底、Flyknit飛織鞋面、Flywire飛線鞋面支撐科技、高幫動態貼合鞋領"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-ewg1vQYR"
+          },
+          {
+            "type": "message",
+            "label": "動作 3",
+            "text": "動作 3"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJJ59f54ibKgusY04IjiOa1MjGbQ7KxICGlWaNElEtYhzFIGLQ",
+        "title": "Morelia Neo II",
+        "text": "Mizuno",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Mizuno \nMorelia Neo II \n適合:中、寬等腳型(亞洲人腳型) \n重量:180克 \n日本製超高水準工藝，鞋面為袋鼠皮，即使是真皮卻依然只有180g重，適合亞洲人腳型的頂級速度戰靴!"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-yBn9mGPb"
+          },
+          {
+            "type": "message",
+            "label": "動作 3",
+            "text": "動作 3"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

@@ -1,0 +1,44 @@
+[{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://www.prokituk.com/media/catalog/product/cache/1/thumbnail/500x/9df78eab33525d08d6e5fb8d27136e95/6/6/66_5.jpg",
+        "title": "MESSI 15.1 FG",
+        "text": "Adidas",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Adidas  MESSI 15.1 FG \n適合:中、寬腳型 \n當今足壇兩大球王之一梅西專屬戰靴，鞋面採用專屬梅西的材質，速度型戰靴設計。"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-MbXZ1K0y"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://s3.amazonaws.com/nikeinc/assets/33934/H014_FB_CR7_Medial_hd_1600.jpg?1413587115",
+        "title": "Mercurial Superfly CR7 ",
+        "text": "Nike",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Nike  Mercurial Superfly CR7 \n適合:窄、中腳型 \n當今足壇兩大球王之一C羅專屬戰靴，速度型戰靴設計。"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-g8R8JzYd"
+          }
+        ]
+      }
+    ]
+  }
+}]

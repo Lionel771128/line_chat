@@ -1,0 +1,46 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://www.futbolemotion.com/imagesarticulos/102135/grandes/bota-adidas-adipure-11pro-trx-fg-solar-blue-blanca-0.jpg",
+        "title": "11Pro",
+        "text": "Adidas",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Adidas  11 Pro  \n適合:中、寬腳型 \nA家球鞋中唯一一個真皮系列，採用小牛皮，包覆感強，舒適好穿，真皮球鞋觸球感一流!"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-lNN8D1pW"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUf3ROhLNT-aMGkBayDLEaQmxl9n2_CeCGQnWMEydS5gT2724yOA",
+        "title": "Tiempo Legend 6",
+        "text": "Nike",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Nike  Tiempo Legend6  \n適合:窄、中腳型 \n袋鼠皮材質，傳奇球星小羅、皮爾洛的愛靴，經典再現!"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-aYrbW84x"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

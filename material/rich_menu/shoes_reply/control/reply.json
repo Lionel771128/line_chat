@@ -1,0 +1,76 @@
+[{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://www.futbolemotion.com/imagesarticulos/102101/750/bota-adidas-predator-instinct-fg-negra-blanca-solar-red-0.jpg",
+        "title": "Predator Instinct FG",
+        "text": "Adidas",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Adidas  Predator(2015) \n適合:中、寬腳型 \n經典控制型球鞋，獵鷹! 鞋面附有摩擦條，讓你能輕鬆踢出弧線自由球!"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-b4ZAlqQW"
+          },
+          {
+            "type": "message",
+            "label": "動作 3",
+            "text": "動作 3"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://www.futbolemotion.com/imagesarticulos/99418/750/bota-nike-ctr360-maestri-iii-fg-azul-volt-0.jpg",
+        "title": "CTR360 Maestri III",
+        "text": "Nike",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Nike  CTR360 \n適合:窄、中腳型 \n中場大師Iniesta穿著的經典控制型球鞋!"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-LkR7jWAg"
+          },
+          {
+            "type": "message",
+            "label": "動作 3",
+            "text": "動作 3"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://www.soccerbible.com/media/3549/mizuno_wave_ignitus_purple_lime_img1.jpg",
+        "title": "Wave Ignitus 3",
+        "text": "Mizuno",
+        "actions": [
+          {
+            "type": "message",
+            "label": "介紹",
+            "text": "Mizuno 無迴旋 Wave Ignitus \n適合:中、寬等腳型(亞洲人腳型) \n日本中場王牌本田圭佑愛靴，鞋面上有控制區，可以幫你更容易踢出本田圭佑招牌的無迴旋自由球!"
+          },
+          {
+            "type": "uri",
+            "label": "評測影片",
+            "uri": "line://app/1614188410-RwX8k0bK"
+          },
+          {
+            "type": "message",
+            "label": "動作 3",
+            "text": "動作 3"
+          }
+        ]
+      }
+    ]
+  }
+}]
