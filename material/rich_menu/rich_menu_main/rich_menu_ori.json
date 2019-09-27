@@ -4,7 +4,7 @@
     "height": 1686
   },
   "selected": true,
-  "name": "richmenu_main",
+  "name": "rich_menu_main",
   "chatBarText": "查看更多資訊",
   "areas": [
     {
@@ -17,7 +17,7 @@
       "action": {
         "type": "postback",
         "text": "請推薦我適合的足球鞋款!",
-        "data": "change_menu=shoes&"
+        "data": "service=shoe&"
       }
     },
     {
@@ -30,7 +30,7 @@
       "action": {
         "type": "postback",
         "text": "請告訴我最近的足球賽事時間!",
-        "data": "change_menu=schedule&"
+        "data": "service=schedule&"
       }
     },
     {
@@ -43,7 +43,7 @@
       "action": {
         "type": "postback",
         "text": "教練~~我好想踢球!請告訴我哪裡可以踢球!",
-        "data": "quick_reply=field&"
+        "data": "service=field&"
       }
     }
   ]
